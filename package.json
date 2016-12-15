@@ -1,19 +1,20 @@
 {
-	"author": "Sean Conrad",
-	"name": "censorify",
-	"version": "0.1.1",
-	"description": "Censors selected words out of text",
-	"main": "censortext",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/spconrad/censorify"
-	},
-	"keywords": [
-		"censor",
-		"words"
-	],
-	"dependencies": {},
-	"engines": {
-		"node": "*"
-	}
+"author":"Sean Conrad",
+"name":"censorify_spconrad",
+"version":"0.1.1",
+"description":"Censors selected words out of text",
+"main":"censortext",
+"repository":{
+"type":"git",
+"url":"https://github.com/spconrad/censorify"
+},
+"keywords":[
+"censor",
+"words"
+],
+"dependencies":{
+},
+"engines":{
+"node":"*"
+}
 }
